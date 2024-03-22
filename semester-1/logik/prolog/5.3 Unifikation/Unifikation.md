@@ -43,4 +43,4 @@ zu 3) - Variable kann nur an _einen_ Term gebunden werden
 
 
 ## Negierte Unifikation
-![[Negierte Unifiation]]
+![[Negierte Unifikation]]

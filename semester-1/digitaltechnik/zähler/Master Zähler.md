@@ -1,5 +1,6 @@
 
 ## Asynchronzähler
+[[Asynchronzähler]]
 [[Asynchronzähler vorwärts]]
 [[Asynchronzähler rückwärts]]
 [[BCD Asynchronzähler]]
@@ -12,7 +13,7 @@ Kombination aus beiden: [[Synchronzähler steuerbar]]
 [[Berechnung von Synchronzählung]]
 
 ### Übung
-[[Bei Zählern immer von Links nach Rechts arbeiten]]
+[[Bei Synchronzählerberechnung immer von Links nach Rechts arbeiten]]
 [[BCD Synchronzähler Berechnung]]
 
 ## [[Frequenzteiler]]

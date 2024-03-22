@@ -1,4 +1,4 @@
-Verzögert Eingangssignal, bis Taktsignal anliegt
+> Verzögert Eingangssignal, bis Taktsignal anliegt
 ![[d_ff_symbol.png]]
 
 | $(t_{n})$ | $(t_{n+1})$ |

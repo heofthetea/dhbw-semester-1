@@ -12,7 +12,9 @@
 - _Beide_ Seiten werden arithmetisch ausgewertet
 - Ergebnisse werden verglichen
 - Abhängig von _Ergebnissen_ ist Goal erfolgreich oder scheitert
-#### Achtung
-- _Beide_ Seiten müssen korrekte arithmetische Terme sein.
-- _Keine_ Seite darf ungebundene Variablen enthalten
-- **Vorsicht!** es heißt `=<` und nicht `<=` (BS lol)
+
+
+>[!Warning]
+>- _Beide_ Seiten müssen korrekte arithmetische Terme sein.
+ >- _Keine_ Seite darf ungebundene Variablen enthalten
+>- **Vorsicht!** es heißt `=<` und nicht `<=` (BS lol)

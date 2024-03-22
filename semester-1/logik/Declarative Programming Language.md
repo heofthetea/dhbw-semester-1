@@ -6,4 +6,5 @@ Definition: _Ist-Zustand_
 --> ermöglicht kompakte Programme
 _aber_: andere Denkweise
 
-Einzige Möglichkeit, Dinge zu wiederholen: [[Recursion]]
+Keine änderbaren Variablen --> Keine Loops
+==> Einzige Möglichkeit, Dinge zu wiederholen: [[Rekursive Prädikate|Rekursion]]

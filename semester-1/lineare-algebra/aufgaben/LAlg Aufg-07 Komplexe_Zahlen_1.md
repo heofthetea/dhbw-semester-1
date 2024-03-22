@@ -9,3 +9,4 @@ path:lineare-algebra/Aufgaben file:"Aufg-07_Komplexe_Zahlen_1"
 ```expander
 path:goodnotes file:"Aufg-07_Komplexe_Zahlen_1"
 ```
+[[LAlg Aufg-07_Komplexe_Zahlen_1.pdf]]

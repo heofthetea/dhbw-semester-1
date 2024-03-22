@@ -95,6 +95,7 @@ Node *swap_with_next(Node *head, Node *n)
 bool sorted(Node *);
 Node *__bubble_sort(Node *, Node *);
 Node *bubble_sort(Node *);
+Node *randomize(Node *, int);
 
 int main()
 {
@@ -117,7 +118,6 @@ Node *randomize(Node *n, int depth)
     int val = rand() % LENGTH + 1;
     return randomize(add_to_list(val, n), depth + 1);
 }
-
 
 Node *bubble_sort(Node *list)
 {
@@ -181,4 +181,33 @@ void up_hex(Node *db, int depth)
     printf("\n---------------------------------------------------------------------------");
     __up_hex(db, 0, depth);
     printf("\n---------------------------------------------------------------------------\n");
+}
+
+//-----------------------------------------------------------------------------------------------------
+
+
+int average(int a, int b) {
+    return (int) (a + b) / 2;
+}
+
+Node *quick_sort(Node *list, int left, int right)
+{
+    if(left == right) {
+        return list;
+    }
+
+    int i_left = left;
+    int i_right = right;
+    int median = average(left, right);
+
+    while (i_left < i_right) {
+        while (get_element_at(i_left, list, 0) < get_element_at(median, list, 0)) {
+            i_left ++;
+        }
+        while (get_element_at(i_right, list, 0) > get_element_at(median, list, 0)) {
+            i_right --;
+        }
+
+        // oops I need to re-implement the swap implementation
+    }
 }

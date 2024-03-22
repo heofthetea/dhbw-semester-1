@@ -7,6 +7,9 @@ path:bwl/presentations
 
 [[Eigene Präsentation Vertrieb]]
 
+### Orange Printers
+[[Aktionärsversammlung_unternehmen_5.pdf]]
+
 ## Tipps
 Folien nummerieren !!
 Aufpassen auf _Formulierungen_

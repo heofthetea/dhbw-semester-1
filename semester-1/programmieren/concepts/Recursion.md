@@ -1,4 +1,4 @@
-> Function that calls itself
+> Recursion is a programming technique where a function calls itself to solve smaller instances of the same problem until a base case is reached, facilitating problem-solving by breaking it down into smaller, more manageable tasks. (thanks, chatGPT)
 ## Beispiel: Fakultät
 ![[recursion_in_memory.png]]
 

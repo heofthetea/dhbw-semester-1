@@ -1,7 +1,7 @@
 **Objects**, but in boring
 _Collections_ of individual data
 
-Acts in memory like a simple data type!!
+> Acts in memory like a simple data type!!
 
 ## 1. real existent
 Actually gets _memory_ reserved in main memory.
@@ -26,7 +26,7 @@ strcpy(dhstudent.name, "Emil");
 
 Can be an array:
 ```c
-dhStudents[3]struct 
+struct 
 {
 	char name[32];
 	int age;
@@ -34,7 +34,7 @@ dhStudents[3]struct
 } students[20];
 
 //use
-students[3].age[19];
+students[3].name[19];
 ```
 
 
@@ -131,4 +131,4 @@ only 4 bytes reserved in total
 ## Traps
 ### size limit
 A struct gets a certain amount of Memory reserved (~2 MB)
-	--> If this limit is reached, the result is a _segmentation Fault_
+	--> If this limit is reached, the result is a [[Segmentation Fault]]

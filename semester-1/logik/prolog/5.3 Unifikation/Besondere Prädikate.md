@@ -1,5 +1,6 @@
 [[Gleichheit]]
-[[Unifikation]] und [[Negierte Unifiation]] 
+[[Unifikation]] und [[Negierte Unifikation]] 
 [[Ganzzahl-Arithmetik]]
 [[Vergleichsprädikate]]
+[[Trace]]
 

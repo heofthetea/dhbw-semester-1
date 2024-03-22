@@ -1,0 +1,1 @@
+The _last_ [[Node]] of a [[Doubly Linked List]].

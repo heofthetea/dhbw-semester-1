@@ -62,15 +62,6 @@
       "key": "ArrowRight"
     }
   ],
-  "file-explorer:open": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "E"
-    }
-  ],
   "file-explorer:move-file": [
     {
       "modifiers": [
@@ -86,15 +77,6 @@
         "Mod"
       ],
       "key": "Q"
-    }
-  ],
-  "backlink:open": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "B"
     }
   ],
   "quick-latex:addBlockMath": [],
@@ -146,6 +128,42 @@
         "Alt"
       ],
       "key": "C"
+    }
+  ],
+  "window-collapse:collapse-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "window-collapse:collapse-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
     }
   ]
 }

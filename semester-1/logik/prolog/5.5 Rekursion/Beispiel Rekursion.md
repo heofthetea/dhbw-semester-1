@@ -10,6 +10,7 @@ int factorial(int n) {
 ```
 
 ### Rekursiv
+[[Recursion]]
 - ist mehr Arbeit für Compiler lol
 - aber: _"To iterate is human, to recurse divine"_.
 - Eleganter: Einfach definition abgeschrieben 

@@ -1,0 +1,1 @@
+The _first_ [[Node]] of a [[Doubly Linked List]].

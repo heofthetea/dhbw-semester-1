@@ -69,6 +69,20 @@
         "a": 1,
         "rgb": 16747220
       }
+    },
+    {
+      "query": "path:\"Virologie lol\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:intension",
+      "color": {
+        "a": 1,
+        "rgb": 10179040
+      }
     }
   ],
   "collapse-display": false,
@@ -81,6 +95,6 @@
   "repelStrength": 11.8532557195072,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3602316055562778,
+  "scale": 0.20168701616188908,
   "close": true
 }

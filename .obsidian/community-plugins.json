@@ -1,7 +1,11 @@
 [
   "vscode-editor",
-  "quick-latex",
   "obsidian-style-settings",
   "mrj-text-expand",
-  "obsidian-git"
+  "obsidian-git",
+  "meld-encrypt",
+  "window-collapse",
+  "obsidian-image-toolkit",
+  "obsidian-excalidraw-plugin",
+  "quick-latex"
 ]

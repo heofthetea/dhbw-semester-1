@@ -1,3 +1,9 @@
-one              one                 one                 one                                                             X
-two              two                 two                 two                                                             X
-three            three               three               three                                                           X
+2023-11-23       Zenith              Lorna Shore                                                     Rivers of Nihil, Ingested, Distant                                                                                              
+2023-01-10       MHP Arena           Architects                                                      Northlane, Sleep Token                                                                                                          
+2023-03-06       Backstage           ERRA                                                            Silent Planet                                                                                                                   
+2022-11-27       LKA Longhorn        Suicide Silence, After the Burial                               Currents, Spite, Invent Animate, Cabal, Boundaries                                                                              
+2023-10-28       Im Wizeman          Annisokay                                                       Fixation, To Kill Achilles                                                                                                      
+2024-01-27       Im Wizeman          TesseracT                                                       Unprocessed, The Callous Daoboys                                                                                                
+2023-02-14       LKA Longhorn        Beast in Black                                                  Firewind                                                                                                                        
+2024-01-26       Technikum           Periphery                                                       Crooked Royals                                                                                                                  
+2023-11-20       Im Wizeman          Self Deception                                                  Awake the Dreamer, Those Without                                                                                                

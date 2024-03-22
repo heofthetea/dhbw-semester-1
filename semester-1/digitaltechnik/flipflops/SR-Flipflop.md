@@ -7,7 +7,7 @@
 Namensgebung:
 - **Set**: S-Eingang
 	- Setzt $Q_{1}$ auf 1
-- **Reset**: R-Eingant
+- **Reset**: R-Eingang
 	- Setzt $Q_{1}$ auf 0 zurück
 
 ### Wahrheitstabelle

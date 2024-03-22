@@ -4,65 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ec624c414baa7dd7",
+        "id": "10c7ac0e85863796",
         "type": "tabs",
         "children": [
           {
-            "id": "f1ede4939d19fe54",
+            "id": "310e55f7e6b4836a",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-1/digitaltechnik/zähler/Master Zähler.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d97a9ad231b1b438",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "semester-1/goodnotes/Digitaltechnik/scripts/Digitaltechnik_2.pdf"
-              }
-            }
-          },
-          {
-            "id": "ab07d71d19cddf5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-1/digitaltechnik/Speicherschaltungen Library.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6eb6838a161a99da",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "semester-1/lineare-algebra/scripts/math-script.pdf"
-              }
-            }
-          },
-          {
-            "id": "1016a61b03915c13",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "semester-1/goodnotes/Lineare Algebra/Aufschriebe/LAlg 3 Komplexe Zahlen.pdf"
-              }
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "shift",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 364.51103591918945
   },
   "right": {
     "id": "6f7f12ab120220c0",
@@ -128,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-1/goodnotes/Lineare Algebra/Aufschriebe/LAlg 3 Komplexe Zahlen.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-1/goodnotes/Lineare Algebra/Aufschriebe/LAlg 3 Komplexe Zahlen.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "semester-1/goodnotes/Lineare Algebra/Aufschriebe/LAlg 3 Komplexe Zahlen.pdf"
-              }
+              "state": {}
             }
           }
         ]
@@ -186,55 +137,60 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "vscode-editor:Create Code File": false
+      "vscode-editor:Create Code File": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1016a61b03915c13",
+  "active": "310e55f7e6b4836a",
   "lastOpenFiles": [
+    "semester-1/programmieren/Sieb des Erathostenes/implementation Sieb des Eratosthenes.md",
+    "semester-1/programmieren/code/009/Code 009 Master.md",
+    "semester-1/bwl/presentations/vertrieb/Eigene Präsentation Vertrieb.md",
+    "semester-1/lineare-algebra/altklausuren/Master Lineare Algebra Altklausuren.md",
     "semester-1/lineare-algebra/Lineare Algebra Aufschriebe.md",
-    "semester-1/goodnotes/Lineare Algebra/Aufschriebe/Notationen.pdf",
-    "semester-1/goodnotes/Lineare Algebra/Aufschriebe/Vektorraum Basics.pdf",
-    "semester-1/digitaltechnik/Speicherschaltungen Library.md",
-    "semester-1/lineare-algebra/scripts/math-script.pdf",
-    "semester-1/goodnotes/Digitaltechnik/scripts/Digitaltechnik_2.pdf",
-    "semester-1/digitaltechnik/zähler/Master Zähler.md",
-    "semester-1/logik/prolog/Prolog Library.md",
-    "semester-1/logik/prolog/Master Prolog.md",
-    "semester-1/digitaltechnik/Master Digitaltechnik.md",
-    "semester-1/digitaltechnik/zähler/Synchroner Frequenzteiler.md",
-    "semester-1/logik/prolog/5.6 Listen/Liste.md",
-    "semester-1/logik/prolog/5.6 Listen/Unifikation von Listen.md",
-    "semester-1/logik/prolog/5.1 Syntax/syntax/Master Prolog Syntax.md",
-    "semester-1/logik/prolog/5.6 Listen/übungen/Übung 5.61 Darstellung von Listen.md",
-    "semester-1/logik/prolog/5.6 Listen/Master Prolog 5.6 Listen.md",
-    "semester-1/logik/prolog/5.4 Suchbäume/Horn-Formel.md",
-    "semester-1/logik/scripts/Logik-handout.pdf",
-    "semester-1/logik/prolog/5.1 Syntax/übungen/Übung Prolog Syntax.md",
-    "semester-1/logik/prolog/5.1 Syntax/übungen/Übung 5.25 Prolog Wissensbank.md",
-    "semester-1/logik/prolog/5.3 Unifikation/übungen/Übung Vergleichsprädikate.md",
-    "semester-1/logik/prolog/5.3 Unifikation/übungen/Übung Unifikation.md",
-    "semester-1/logik/prolog/5.3 Unifikation/übungen/Übung 5.36 Gleichheit.md",
-    "semester-1/logik/prolog/5.3 Unifikation/übungen/Übung 5.34 Kreuzworträtsel.md",
-    "semester-1/logik/prolog/5.3 Unifikation/übungen/Übung 5.32 Unifikationsanfragen.md",
-    "semester-1/logik/prolog/5.4 Suchbäume/übungen/Übung 5.42 Harry Potter.md",
-    "semester-1/logik/prolog/5.5 Rekursion/übungen/Übung less Prädikat.md",
-    "semester-1/logik/prolog/5.5 Rekursion/übungen/Übung Rekursive Addition.md",
-    "semester-1/logik/prolog/5.5 Rekursion/Master Prolog 5.5 Rekursion.md",
     "semester-1/logik/prolog/5.4 Suchbäume/Master Prolog 5.4 Suchbäume.md",
-    "semester-1/logik/prolog/images/rekursiver_suchbaum.png",
-    "semester-1/logik/prolog/5.6 Listen/übungen",
-    "semester-1/logik/prolog/5.5 Rekursion/übungen",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/screenshot.png",
-    "semester-1/logik/prolog/5.6 Listen",
-    "semester-1/logik/prolog/5.5 Rekursion",
-    "semester-1/logik/prolog/images/Pasted image 20240129160243.png",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240129164505.png",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240129164727.png",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240129165331.png",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240129170519.png",
-    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240129171016.png",
-    "semester-1/logik/prolog/images/Pasted image 20240130145444.png",
-    "semester-1/logik/prolog/images/Pasted image 20240130151201.png",
-    "semester-1/logik/prolog/code/less.pl"
+    "semester-1/lineare-algebra/LAlg_Cheat_Sheet.pdf",
+    "semester-1/lineare-algebra/Master Lineare Algebra.md",
+    "semester-1/lineare-algebra/aufgaben/Master Lineare Algebra Aufgaben.md",
+    "semester-1/lineare-algebra/aufgaben/LAlg Aufg-10 Drehungen.md",
+    "Access token.mdenc",
+    "Master DHBW.md",
+    "semester-1/logik/prolog/code/Master Prolog Code.md",
+    "semester-1/logik/prolog/Master Prolog.md",
+    "semester-1/bwl/Master BWL.md",
+    "semester-1/logik/prolog/5.5 Rekursion/tail-rekursiv.md",
+    "semester-1/logik/prolog/5.5 Rekursion/Master Prolog 5.5 Rekursion.md",
+    "semester-1/logik/Master Logik.md",
+    "semester-1/logik/prolog/Master Prolog 5.7 Cut.md",
+    "semester-1/lineare-algebra/altklausuren/DHBW-Klausur_Lin-Alg_2021-22_Lsg 1.pdf",
+    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240207162132.png",
+    "semester-1/programmieren/Master Programmieren.md",
+    "semester-1/programmieren/code/Code Master.md",
+    "semester-1/programmieren/Sieb des Erathostenes/Aufgabe - Sieb des Eratosthenes.md",
+    "semester-1/programmieren/code/007/Code 007 Master.md",
+    "semester-1/bwl/presentations/Master BWL Presentations.md",
+    "semester-1/programmieren/code/009/Code 009 Master",
+    "semester-1/programmieren/eigene-datenbank/Shows Database Code.md",
+    "semester-1/digitaltechnik/auswahlschaltungen/images/Pasted image 20240202083813 1.png",
+    "extern/notes/Daily Note 10-01-2024.md",
+    "semester-1/programmieren/eigene-datenbank/Shows Database.md",
+    "semester-1/programmieren/eigene-datenbank/Datenbank Ideen.md",
+    "theorie_praxisphasen.pdf",
+    "intension/keycloak/authorization_services/images/Pasted image 20240306152238.png",
+    "intension/keycloak/authorization_services/images/Pasted image 20240306153904.png",
+    "intension/keycloak/authorization_services/images/Pasted image 20240305134313.png",
+    "intension/keycloak/authorization_services/images/Pasted image 20240304140324.png",
+    "intension/t1000/images/Pasted image 20240322111527.png",
+    "intension/t1000/images/Pasted image 20240321161358.png",
+    "intension/t1000/images/Pasted image 20240311165056.png",
+    "intension/keycloak/images/Pasted image 20240305142450.png",
+    "intension/keycloak/authorization_services/images",
+    "intension/keycloak/authorization_services/docker-compose_keycloak-playground.yml",
+    "intension/t1000/t1000_jannis.pdf",
+    "intension/t1000/t1000_ingo.pdf",
+    "intension/t1000/images",
+    "test.canvas"
   ]
 }

@@ -133,8 +133,12 @@ a = 27;
 b >> 2; // b = 6 (27 / 4 = 6 (ignore rest))
 ```
 
-$1)\;00000111 \rightarrow 00111000$ 
-$2)\; 00011011 \rightarrow$
+$1)\;0000\,0111 \rightarrow 0011\,1000$ 
+$2)\; 0001\,1011 \rightarrow 0000\,0110$ 
+
+- moves every bit `n` spaces into a given direction
+- `n` bits will be "removed" so-to-speak when shifting out of bounds of a variable
+
 
 
 ## Pointer / Address Operators
@@ -196,4 +200,5 @@ Manually allocates memory of a given byte size.
 uint64_t *temp =(uint64t *) malloc(sizeof(uint64_t));
 ```
 Reserves 8 byte of memory. Returns the pointer _to_ that reserved memory.
-**Attention !!** Always cast to correct type!! Only this way, memory will behave as expected.
+
+> [!warningAlways cast to correct type!! Only this way, memory will behave as expected.

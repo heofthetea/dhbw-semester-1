@@ -68,8 +68,9 @@ works by _subtracting_ the 2 strings from one another, character by character
 	--> as soon as the result is not equal to 0, function terminates and returns difference of characters at position
 
 $A - A = 0$ ==> match
-$A - a = 32$ ==> do not match; `return 32`
-$a - A = -32$ ==> do not match, `return -32`
+$A - B = -1$ ==> do not match, B is larger
+$A - a = -32$ ==> do not match; `return -32`
+$a - A = 32$ ==> do not match, `return 32`
 
 outputs:
 	$0$ --> strings match

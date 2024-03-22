@@ -1,5 +1,5 @@
 - _Selective_: Wähle nächstes Literal (In Prolog: zuletzt eingeführtes)
-- _Linear_: Erste Elternklausel ist zuletzt erzeugte _Zielklausel_
+- _Linear_: Erste Elternklausel ist zuletzt erzeugte [[Zielklausel]]
 	- Fange an mit _Anfangsklausel_
 	- Wenn Resolution funktioniert: mach mit erhaltener Zielklausel weiter
 - _Definite clause_: Zweite Elternklausel ist [[Definite Klausel]]
@@ -24,4 +24,5 @@
 	--> Endlos-Schleife
 - Reihenfolge in [[Wissensbank]] ist wichtig!!
 
+## Beispiel
 ![[Beispiel SLD-Resolution]]

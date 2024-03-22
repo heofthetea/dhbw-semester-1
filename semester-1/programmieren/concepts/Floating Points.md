@@ -4,7 +4,7 @@
 
 ![[double_in_memory.png]]
 
-[[negative_powerd_of_2.pdf]]
+[[negative_powers_of_2.pdf]]
 
 
 \1. Bit: Vorzeichen-Bit

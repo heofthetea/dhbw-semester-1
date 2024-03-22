@@ -10,9 +10,9 @@ Memory of function only stores data for the _duration_ in which the function is 
 int function_add(int, int); // prototype definition
 
 main () {
-int a = 4, b = 3, erg;
-
-erg = function_add(a, b); // call to function
+	int a = 4, b = 3, erg;
+	
+	erg = function_add(a, b); // call to function
 }
 
 int function_add(int x, int y) {
@@ -49,6 +49,3 @@ void function_add(int* pa, int* pb, int* perg) {
 	*perg = *pa + *pb;
 }
 ```
-
-
-## mixed example

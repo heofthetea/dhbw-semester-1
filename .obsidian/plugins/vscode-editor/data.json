@@ -11,7 +11,9 @@
     "java",
     "lua",
     "php",
-    "pl"
+    "pl",
+    "txt",
+    "h"
   ],
   "folding": true,
   "lineNumbers": true,

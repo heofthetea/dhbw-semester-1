@@ -1,4 +1,4 @@
-> 4-bit biinärer Vorwärtszähler
+> 4-bit binärer Vorwärtszähler
 
 ![[synchronzaehler_binary.png]]
 - Information wird mit absteigender Flanke aufgenommen, und mit ansteigender weitergegeben

@@ -2,6 +2,7 @@
 - Y = 1 falls A = B
 - Z = 1 falls A < B
 
+
 ### Symbol
 ![[Pasted image 20240129171002.png]]
 

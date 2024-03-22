@@ -2,6 +2,9 @@
 > Zwischenorgane können _Groß_ oder Einzelhändler sein
 > Verantwortung über Verkauf des Produkts geht mit Zeitpunkt des Erwerbs an Händler über
 
+> def _Marginzahlung_: _Kein_ Teil des Gewinns / rather Zahlen (per Vertrag) an Zwischenhändler
+> _more research_
+
 ![[indirekter_absatz.png]]
 ### Vorteile
 - Keine eigene Infrastruktur für Vertrieb benötigt
@@ -9,7 +12,7 @@
 - Auslieferung von Produkten in Massen -> erhöhte Effizienz
 
 ### Nachteile
-- Gewinn muss mit Händler geteilt werden (Margenzahlungen)
+- Gewinn muss mit Händler geteilt werden (Marginzahlungen)
 - Fehlende Information über Endkunde
 - ggf. Abhängigkeit von Händler
 	- _Note_: Hersteller fungiert nur noch als Lieferant, ohne Kontrolle

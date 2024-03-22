@@ -1,17 +1,17 @@
-#master 
 ## Vorlesungs-Skript
 [[math-script.pdf]]
 
 ## Contents
 [[LaTex Cheat Sheet]]
-
+[[oBdA]]
+[[Drawing 2024-02-08 16.58.21.excalidraw]]
 
 ## Good Notes
 [[Lineare Algebra Aufschriebe]]
 [[Lineare Algebra Mitschriebe]]
 
 ## Aufgaben
-[[Master Aufgaben Lineare Algebra]]
+[[Master Lineare Algebra Aufgaben]]
 ### Template
 [[Lineare Algebra Aufgaben Template]]
 

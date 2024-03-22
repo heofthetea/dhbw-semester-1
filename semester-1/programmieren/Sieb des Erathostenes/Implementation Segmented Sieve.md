@@ -128,7 +128,7 @@ In this table can be seen, that $\forall_{x} A_{x} \leq 1.152$. So, to get a num
 
 ```c
 int n;
-(n / (uint64_t)log10(n)) * 1.52
+(n / (uint64_t)log10(n)) * 1.152
 ```
 
 ### Algorithm

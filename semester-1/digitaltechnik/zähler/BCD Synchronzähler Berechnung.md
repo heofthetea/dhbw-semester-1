@@ -2,13 +2,13 @@
 - nur 10 Zustände wirklich benötigt --> trotzdem _alle_ hinschreiben
 	- Achtung: bei 10. Zähler wieder die 0 an Ausgängen
 	- beachte _Don't-Cares_
-- Bei _Rückwärtszählern_: IMMER LINKE SEITE -1!!!
+- Bei _Rückwärtszrählern_: IMMER LINKE SEITE -1!!!
 
 ### Tipps
 - Don't Cares einmal eintragen 
 	- Danach immer kopieren --> BESONDERE VORSICHT (einmal falsch = 4x falsch xd)
 - kleinste Wertigkeit toggled immer (KV-Diagramm unnötig, Zeit sparen lol)
-- [[Bei Zählern immer von Links nach Rechts arbeiten]]
+- [[Bei Synchronzählerberechnung immer von Links nach Rechts arbeiten]]
 ## [[Erweiterte Warheitstabelle]]
 | Dezimalwert | $Q_{D(n)}$ | $Q_{C(n)}$ | $Q_{B(n)}$ | $Q_{A(n)}$ |  | $Q_{D(n+1)}$ | $Q_{C(n+1)}$ | $Q_{B(n+1)}$ | $Q_{A(n+1)}$ | Dezimalwert |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |

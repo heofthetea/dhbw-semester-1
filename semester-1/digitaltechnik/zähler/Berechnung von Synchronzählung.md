@@ -1,6 +1,6 @@
 ## Vorgehen
 1. Wahreitstabelle aufstellen
-2. Anwendungsgleichungen (= [[Konjunktive Normalform|KNF]]) aufstellen und vereinfachen
+2. Anwendungsgleichungen (= [[DNF]]) aufstellen und vereinfachen
 	1. Dabei _spaltenweise_ arbeiten (ouch)
 3. [[Charakteristische Gleichungen]] der verwendeten Flip-Flops bestimmen
 4. Verknüpfungsgleichungen durch Koeffizientenvergleich bestimmen
@@ -37,7 +37,6 @@ anhand [[Synchronzähler vorwärts]]
 ###### 2.3 $Q_C$
 _vereinfachte Form_: $Q_{C(n+1)} =$$[ Q_{A}Q_{B} \lnot Q_{C} \lor \lnot (Q_{A}Q_{B})Q_{C}]_{n}$  
 ![[KV_Qc.png]]
-WHAT THE FUCKING FUCK LATEX HOLY FUCKING SHIT
 ###### 2.4 $Q_{D}$ 
 $Q_{D(n+1)} =[Q_{A}Q_{B}Q_{C} \lnot Q_{D} \lor \lnot (Q_{A}Q_{B}Q_{C})Q_{D}]_{n}$  
 ![[kv_Qd.png]]
