@@ -1,0 +1,7 @@
+- [[Plan_JG2023_BD.pdf]]
+- [[Hub KI]]
+- [[Hub IT Forensik]]
+- [[Hub Verteilte Systeme]]
+- [[Hub Datenbanken 2]]
+- [[Hub IT Security]]
+- [[Hub Interaktive Systeme]]

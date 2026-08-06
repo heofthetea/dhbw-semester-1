@@ -15,7 +15,8 @@
 	- Gruppenarbeit (Maxiiiiimmmmmmmmmmmmmmmmm)
 	- Zeit in der Vorlesung
 	- am Ende idealerweise Präsentieren
-
+#### Präsentation
+- [[IoT Präsi.pdf]]
 #### Hausarbeit
 - [[Iot-seminararbeit-dhbw-ws2025-1.pdf]]
 - [[IoT Prüfungsleistung]]

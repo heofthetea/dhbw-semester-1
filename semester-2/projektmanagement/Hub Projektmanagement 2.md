@@ -131,7 +131,7 @@ wichtig: [[Kostenbestandteile]]
 [[Risikomanagement]]
 [[Risikobehandlung]]
 
-[[Risikoanalyse]]
+[[Risikomatrix]]
 
 
 [[Übung Risikoplanung]]

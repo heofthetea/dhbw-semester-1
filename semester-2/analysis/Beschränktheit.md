@@ -3,7 +3,7 @@ aliases:
   - Schranke
 ---
 > Definition für [[Menge|Mengen]]
-	==> Definition auf [[Folge|Folgen]]: Definition auf der [[Menge]] der Folgeglieder $A = \set{a_{n}| n \in \mathbb{N}}$ 
+	=> Definition auf [[Folge|Folgen]]: Definition auf der [[Menge]] der Folgeglieder $A = \set{a_{n}| n \in \mathbb{N}}$ 
 
 
 [[Vollständigkeitsaxiom der Reellen Zahlen]]

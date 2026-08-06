@@ -1,0 +1,4 @@
+- [ ] implement sigmoid
+- [ ] implement K calculation
+- [ ] implement main [[Adaptive Moment Estimation|Adam]] loop (take some "inspiration" from fatalii and help from claude here)
+- [ ] 

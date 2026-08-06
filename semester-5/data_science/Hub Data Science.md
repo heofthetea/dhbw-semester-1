@@ -19,13 +19,10 @@
 - [[Data Science]]
 - [[Demografie-Problem LLM]]
 - [[Data Science in Praxis]]
-
 ### Phasenmodell
 - [[CRISP-DM]]
-
 ### Übung
 - [[Übung xyz aaaa]]
-
 ## Statistik aaaaaaa the ptsd
 - Arten der stuff
 	- [[Parametrisches Verfahren]]
@@ -62,7 +59,7 @@
 - [[Datenanalyse]]
 - [[Catplot]]
 - [[Pandas]]
-	- [[Data Frame]]
+	- [[Pandas Data Frame]]
 
 ## ML
 - [[K-Nearest Neighbours]]
@@ -75,10 +72,13 @@
 - [[Bewertungsmetriken für Regression]]
 	- [[Mean Squared Error]]
 - [[Klassifikatortraining]]
+	- [[Regressatortraining]]
 
 ## Feature Engineering
 - [[Umgang mit zu vielen Daten]]
 - [[Unausgeglichener Datensatz]]
+	- [[Resampling]]
+	- [[Stratification]]
 - [[Erfassung vs Nützlichkeit]]
 - [[Beispiel Data Preparation]]
 - [[Daten-Diskretisierung]]
@@ -95,6 +95,7 @@
 	- [[Grid Search]]
 - [[Decision Tree]]
 	- [[Entropie]]
+		- [[Shannon Entropy]]
 		- [[Gini Index]]
 	- [[Information Gain]]
 	- [[Aufteilen von Attributen]]
@@ -133,3 +134,17 @@
 	- [[Metrik Support]]
 	- [[Metrik Confidence]]
 	- [[Metrik Lift]]
+
+
+---
+# Python
+- [[Pandas Data Frame]]
+	- [[Filtering a Data Frame]]
+- [[Numpy Array]]
+	- [[Operationen auf Numpy Arrays]]
+- [[argmin]]
+- 
+## Deep Learning
+- [[TensorFlow]]
+- [[Keras]]
+	- [[SciKit StandardScalar]]

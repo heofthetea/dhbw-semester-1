@@ -11,7 +11,6 @@
 > Künstliche Vergrößerung des Trainingsdatensets durch Generierung realistischer Samples
 
 - Idee: mehr Trainingsdaten => weniger Overfitting (oke)
-
 ## Ensemble Learning
 > Abmilderung von Zufallseffekten (??)
 

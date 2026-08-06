@@ -1,5 +1,4 @@
 > Ziel: [[Overfitting]] und [[Underfitting]] minimieren -> Optimierung des [[Klassifikator|Klassifikators]]
-
 [[Vorgehensmodell]], [[Klassifikation]]
 
 - Daten splitten: zufällig auswählen, anhand $D_{train}$ trainieren, mit $D_{test}$ testen

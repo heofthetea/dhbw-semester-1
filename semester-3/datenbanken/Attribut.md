@@ -1,3 +1,7 @@
+---
+aliases:
+  - Feature
+---
 [[Entität]], [[Schlüsselattribut]]
 
 - Ein Key-Value Pair aus **name** und [[Menge|Domäne]] (= Wertebereich)/Datentyp

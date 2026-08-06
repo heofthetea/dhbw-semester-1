@@ -7,7 +7,5 @@
 
 
 Frauenquote: $\frac{1}{13} + \frac{?}{?}$
-
-
 ## Von dem Architecture dude
 ![[Pasted image 20251010154210.png]]

@@ -5,7 +5,7 @@
 - [[BCM]]
 - [[Resilience]]
 - [[Fall Enron]]
-- [[ISO 270001]]
+- [[ISO 27001]]
 
 ### Governance
 - [[Corporate Governance]]
@@ -37,6 +37,7 @@
 - [[QTSP]]
 - [[UIDI Wallet]]
 - [[ECDSA]]
+- [[QTSP]]
 
 ## Offensive Security
 ### yapping pdfs
@@ -148,3 +149,4 @@
 - [[Hashdump]]
 - [[Command Injection]]
 - [[Buffer Overflow]]
+- [[Docker Sudo Privilege Escalation]]

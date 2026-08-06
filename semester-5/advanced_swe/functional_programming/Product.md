@@ -1,4 +1,4 @@
-> An [[Object]] $c$ with two [[Morphism|Projections]] $p, q$ s.t. for any other object $c'$ with two projections $p'$ and $q'$ there exists a [[Morphism]] transforming $p'$ and $q'$ into $p$ and $q$ respectively
+ > An [[Object]] $c$ with two [[Morphism|Projections]] $p, q$ s.t. for any other object $c'$ with two projections $p'$ and $q'$ there exists a [[Morphism]] transforming $p'$ and $q'$ into $p$ and $q$ respectively
 
 - when talking about [[Type|Types]] the product of two types corresponds to a [[Rust Struct|Struct (Product Type)]]
 

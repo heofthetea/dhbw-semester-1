@@ -43,7 +43,7 @@
 - [[Konfusionsmatrix]]
 	- [[Loss]]
 	- derived metrics
-		- [[True Positive Rate]]
+		- [[Recall]]
 		- [[Accuracy]]
 		- [[F1-Score]]
 		- etc.

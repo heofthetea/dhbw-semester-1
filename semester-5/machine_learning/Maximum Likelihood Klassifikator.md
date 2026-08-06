@@ -2,7 +2,6 @@
 
 ![[Pasted image 20251031131256.png]]
 
-
 ## Sonderfall von [[MBR Klassifikator]], wenn:
 ### Vorraussetzungen
 1. [[01-Loss]]
@@ -13,7 +12,7 @@
 - $P(x = -1) = P(x = 1) = \frac{1}{2}$ => [[Laplace Experiment|Diskrete Gleichverteilung]]
 - [[01-Loss]] -> ??
 
-#todo Bild screenshotten und so
+![[Pasted image 20260715111910.png]]
 
 
 ### Entscheidungsgrenze

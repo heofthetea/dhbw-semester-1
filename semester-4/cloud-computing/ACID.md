@@ -3,7 +3,6 @@
 ### Atomicity
 - [[Atom]]
 - Eine [[Transaktion]] ist die kleinste, nicht mehr sinnvoll unterteilbare Einheit. Erscheint von außen als eine vollständige Einheit.
-
 ### Consistency
 - [[Konsistenzüberwachung]]/[[Referenzielle Integrität]]
 - Die [[Datenbank]] befindet sich **immer** in einem [[Konsistenzüberwachung|konsistentem]] Zustand

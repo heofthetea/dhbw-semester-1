@@ -2,4 +2,4 @@
 
 > [!hint] Uses numpy internally for a whole bunch of shit
 
-- Core Entity: [[Data Frame]] 
+- Core Entity: [[Pandas Data Frame]] 

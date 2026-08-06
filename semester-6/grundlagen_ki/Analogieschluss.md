@@ -1,0 +1,3 @@
+- es gibt eine Situation die schonmal gelöst wurde
+- ich kann meine unbekannte Situation auf diese bekannte Situation [[Reduktion|reduzieren]]
+	- -> Lösung

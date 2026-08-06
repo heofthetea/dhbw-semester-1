@@ -1,7 +1,7 @@
 > [[Klassifikation]] für binäre Probleme
 
 
-- wie [[Linearregression]], aber anders verteilt
+- [[Regression]] anhand eines [[Sigmoid]]
 
 > [!warning] immernoch nur für [[Gerade|lineare]] [[Korrelation|Zusammenhänge]]!
 

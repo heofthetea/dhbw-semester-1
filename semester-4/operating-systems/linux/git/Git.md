@@ -16,6 +16,9 @@
 [[Remove Files from tracking]]
 [[Setting user and email]]
 [[Git Credential helper]]
+[[Git rerere]]
+
 [[Bare Repository]]
 
 [[Merge Conflict]]
+

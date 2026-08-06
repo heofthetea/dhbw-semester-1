@@ -1,6 +1,6 @@
 > Ziel: fortlaufend mit Risiken umgehen
 
-[[Risikoplanung]], [[Arten von Risiken]], [[Risiko]]
+[[Risikoplanung]], [[Arten von Risiken]], [[Risiko]], [[Risiken abwägen]]
 
 > [!hint] [[Risikomanagement]] zu machen wird gesetzlich [[Corporate Governance|vorgeschrieben]] (für AG und GmbH).
 

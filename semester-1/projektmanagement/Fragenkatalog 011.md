@@ -33,7 +33,7 @@
 ### 58. Elemente des Risikokreislauf
 [[Risikomanagement]]
 1. Risiken erkennen
-2. [[Risikoanalyse]]
+2. [[Risikomatrix]]
 3. [[Risikomanagement]] - Mit Risiko umgehen
 4. wieder von vorne machen
 
@@ -44,7 +44,7 @@ Risiken können sich vergrößern etc
 
 ### 60. Wie ermittelt man Bedrohung durch ein Risiko?
 $Eintrittswahrscheinlichkeit\ \times\ Auswirkung$
-[[Risikoanalyse]]
+[[Risikomatrix]]
 --> wenn eins der beiden gegen 0 strebt, strebt Risiko gegen 0
 
 ### 61. Wie und wo können Risiken in einem Projekt auftreten?

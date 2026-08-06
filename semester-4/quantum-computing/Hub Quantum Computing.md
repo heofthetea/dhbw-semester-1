@@ -1,7 +1,7 @@
-[[QC-Wahlfach-2025-1.pdf]]
-
+Ausarbeitung: [[pqc.pdf]]
 ### Resources
 
+[[QC-Wahlfach-2025-1.pdf]]
 [[SS FHNW Teil 1.1.pdf]]
 [[Skript Quantum Intro.pdf]]
 [[978-3-662-61889-9.pdf]]

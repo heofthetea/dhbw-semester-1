@@ -11,6 +11,9 @@
 [[Begrifflichkeiten Aussagenlogik|Begrifflichkeiten Aussagenlogik]]
 [[Definitionen Logik]]
 [[Tipps Klausur Logik]]
+
+### misc
+- [[Law of the Excluded Middle]]
 ### [[Master Prolog|Prolog]]
 - [[Master Prolog 5.1 Intro]]
 - [[Master Prolog 5.3 built-ins]]

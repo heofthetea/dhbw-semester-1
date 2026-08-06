@@ -1,7 +1,5 @@
 > Ermöglicht standardisierte Kommunikation zwischen Teilnehmern
 
-- Läuft auf [[Layer 2]]
-
 ## Beispiele
 - Vermittlung von Verbindungen
 - [[Ethernet Flow Control]]

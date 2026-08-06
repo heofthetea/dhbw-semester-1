@@ -54,7 +54,7 @@ Nmap done: 1 IP address (1 host up) scanned in 1.17 seconds
 	- [[FTP]] -> ftp from what I know is pretty vulnerable
 	- [[SSH]] -> maybe something?
 	- [[Telnet]] -> i have no clue what exactly that is but it's simmilar to ssh i think
-	- [[SMTP]] -> Mail
+	- [[Email Comunication]] -> Mail
 	- [[DNS]]
 	- [[HTTP]] (NO https note)
 	- 111: rpcbind -> also some protocol for remote process execution on the machine

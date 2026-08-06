@@ -1,0 +1,2 @@
+- **Safety**: Schutz von Menschen
+- **Security**: Schutz vor Schaden an [[Asset]]s

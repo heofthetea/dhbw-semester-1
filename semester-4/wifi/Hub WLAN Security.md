@@ -5,8 +5,8 @@
 	- [[Cryptographic Key]]
 	- [[symmetric Encryption]]
 	- [[asymmetric Encryption]]
-- [[Block Cypher]]
-- [[Cypher Block Chaining]]
+- [[Block Cipher]]
+- [[Cipher Block Chaining]]
 
 ### naive Encryptions
 - [[Caeser Cipher]]

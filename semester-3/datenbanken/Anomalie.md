@@ -1,5 +1,8 @@
-> Wenn eine [[Konsistenzüberwachung|Inkonsistenz]] in der [[Datenbank]] existiert
+> Ein für ein System untypisches Ereignis
 
+---
+# Datenbanken
+> Wenn eine [[Konsistenzüberwachung|Inkonsistenz]] in der [[Datenbank]] existiert
 ## Einfügeanomalie
 - [[Daten]] können nicht angelegt worden, weil benötigte Teilinformationen nicht existieren
 

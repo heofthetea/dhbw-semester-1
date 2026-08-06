@@ -3,7 +3,7 @@ $$log_{a}\, x = \frac{log_{b}\, x}{log_{b}\, a}$$
 
 daraus folgt:
 $log_{a}\, x = \frac{1}{log_{b}\, a}log_{b}\,x = c \cdot log_{b}\, x$ 
---> Basis ist für [[Big O|Big O]] irrelevant!! 
+-> Basis ist für [[Big O|Big O]] irrelevant!! 
 - Ermöglicht [[Ableitung von Logarithmen]]
 
 

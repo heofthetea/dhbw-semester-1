@@ -12,6 +12,9 @@
 >	- if it's <span style="color:rgb(245, 154, 35)">black</span>'s turn -> white had a better option available earlier -> won't take this path (failing low) 
 >	- if it's <span style="color:rgb(126, 198, 54)">white</span>'s turn -> means black has a better option on this [[Pfad|path]] (= too good to be true)
 >		- => the previously explored path is better for white (failing high)
+
+> [!hint] $\alpha$ is always updated locally with values from children - $\beta$ is always passed down from the parent.
+ 
 ## pseudo-implementation
 ```python
 def alpha_beta(pos, alpha, beta, depth, maximizing):

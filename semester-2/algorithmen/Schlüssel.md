@@ -1,3 +1,7 @@
+---
+aliases:
+  - Key
+---
 > Dient zur **eindeutigen** Identifikation eines [[Tupel|Tupels]]
 
 [[Superschlüssel]]

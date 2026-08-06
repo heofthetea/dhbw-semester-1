@@ -10,5 +10,5 @@
 ## Undersampling
 - man schmeißt ein paar der überrepräsentierten raus
 
-## [[Fehlermetrik|Fehlermetriken]] nutzen
-(was zum fick)
+## Die richtigen [[Fehlermetrik|Fehlermetriken]] nutzen
+- mainly: [[Balanced Accuracy]]

@@ -1,3 +1,8 @@
+---
+aliases:
+  - True Negative Rate
+  - TNR
+---
 - [[Recall]] für negatives
 
-$$\frac{TN}{\Omega}$$
+$$\frac{TN}{TN + FN}$$

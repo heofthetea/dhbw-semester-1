@@ -8,7 +8,6 @@
 - [[theorie_praxisphasen.pdf]]
 - [[Notenformel]]
 
-
 ## Utilities
 - [[Master Exports]]
 - [[Hub Misc]]
@@ -22,7 +21,7 @@
 
 
 ## Semester
-- [[The 9 Horsemen of over-generalization]]
+- [[The 10 Horsemen of over-generalization]]
 
 ### Semester 1
 - [[Master Semester 1]]
@@ -77,3 +76,8 @@
 - [[Hub Machine Learning]]
 - [[Hub Data Warehouse]]
 - [[Hub Thunfisch]]
+
+### Semester 6
+- [[Hub Semester 6]]
+- [[Hub KI]]
+- [[Hub IT Forensik]]

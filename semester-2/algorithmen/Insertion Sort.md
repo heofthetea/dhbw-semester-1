@@ -5,7 +5,7 @@
 1. gehe [[Array]] von successive von vorne nach hinten durch
 2. schiebe Element an der Stelle $i$ an ihre richtig [[Sortieren|sortierte]] Stelle im Output-Array
 
-==> Out-Array ist einfach der Anfang des In-Arrays für [[in-place Sortieren]] 
+=> Out-Array ist einfach der Anfang des In-Arrays für [[in-place Sortieren]] 
 
 > [!warning] Vertauscht immer nur benachbarte Elemente 
 
@@ -25,10 +25,9 @@ def insert_sort(arr):
 
 ## Auf [[Liste]]
 - man muss nur [[Pointer]] vertauschen, nichts vertauschen
---> Selbes Prinzip mit neuem [[Listenanker]]
+-> Selbes Prinzip mit neuem [[Listenanker]]
 
 > [!note] maximal 2 Swaps pro Schritt, weil man nicht ein halbes Array durch die gegend kopieren muss
-
 
 
 [[Recursion]]

@@ -22,3 +22,4 @@ sequenceDiagram
 	API ->> Client A: 200 OK
 
 ```
+

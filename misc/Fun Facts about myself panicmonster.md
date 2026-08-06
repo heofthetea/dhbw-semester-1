@@ -1,0 +1,3 @@
+- 6 Gitarren/8 instrumente
+- 6 mal umgezogen
+- 

@@ -1,8 +1,10 @@
 > Alles in 0-1er Werten machen
 
-- Quasi Bitmaps:
+- Quasi Thunfisch Bitmaps:
 	- es ist immer genau ein Bit eines [[Vektor|Vektors]] gesetzt
 		- Zusatzfall: all zeroes
+
+> [!warning] Für [[Nominales Skalenniveau|Nominalskalen]]
 
 > [!hint] Führt halt zu vielen [[Dimension|Dimensionen]]
 

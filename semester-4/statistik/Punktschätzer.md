@@ -6,3 +6,8 @@
 - [[Erwartungstreue]]
 - [[Bias]]
 - [[Mean Square Error]]
+
+## Instanzen
+- [[Punktschätzer von Anteilen]]
+- [[Punktschätzer Mittelwert]]
+- [[Punktschätzer Varianz]]

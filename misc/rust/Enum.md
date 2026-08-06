@@ -5,7 +5,7 @@ aliases:
 ---
 > The [[Coproduct]] of two types -> a type consisting of multiple sub-types, where it can only be one at a time.
 
-[[Rust]], [[Java Enum]]
+[[Rust]], [[Java Enum]], [[Coproduct]]
 
 ```rust
 enum Direction {

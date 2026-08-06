@@ -16,7 +16,7 @@ $$172.16.0.0/12$$
 
 - used by [[Virtual Machine|VM]] nets, [[Docker]]
 ## C-Klasse
-$$192.168.0.0/24$$
+$$192.168.0.0/16$$
 > [!info] By far the most common
 
 - used mostly in Home Networks

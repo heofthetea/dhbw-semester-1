@@ -1,0 +1,4 @@
+- Während dem [[Application Lifecycle Management|Lifecycle]] immer alles [[Cryptographic Key|kryptografisch]] [[Encryption|verschlüsselt]] speichern
+- Am Ende: Einfach den Schlüssen zerstören
+	- => ist effektiv gleich wie zufallsbasiertes überschreiben - Daten bleiben kauderwelsch
+	- ist aber schneller und effektiver

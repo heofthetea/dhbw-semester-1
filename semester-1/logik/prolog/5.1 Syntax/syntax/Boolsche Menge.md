@@ -1,6 +1,8 @@
 ---
 aliases:
   - Binärsystem
+  - Boolean Set
+  - Boolean
 ---
 [[Menge]], [[Bit]]
 

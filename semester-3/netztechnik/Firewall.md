@@ -5,7 +5,7 @@ Basic functionality with [[#Connection Table]]:
 2. For incoming packet: Check whether packet matches an outbound connection in Table
 	1. if yes: all good
 	2. if no: Block the packet
-3. Enforce further rules (i.e. blocking of specific domains, etc)
+3. Enforce further rules (i.e. blocking of specific domains, etc) through [[Blacklisting]]/[[Whitelisting]]
 
 => Requires [[P2P Hole Punching]] to get around
 

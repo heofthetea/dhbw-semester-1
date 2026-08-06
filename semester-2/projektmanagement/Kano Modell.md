@@ -1,4 +1,4 @@
-[[Softwarequalität]]
+ [[Softwarequalität]]
 
 ![[Pasted image 20240626113612.png]]
 

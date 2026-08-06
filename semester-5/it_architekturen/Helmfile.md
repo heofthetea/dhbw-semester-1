@@ -25,7 +25,7 @@
 
 > [!hint] Tag name needs to match the generic array -> maybe useful if it's needed to configure something else
 
-> [!hint] Vor newer versions of helmfile - add `.gotmpl` extension to `helmfile.yaml` to avoid panics
+> [!hint] For newer versions of helmfile - add `.gotmpl` extension to `helmfile.yaml` to avoid panics
 
 ### Environment Variables
 - To get environment variables: use `{{ env "env_name" }}` for optional, `{{ requiredEnv "env_name" }}` to fail if env not presenet
@@ -42,3 +42,12 @@ helmfile destroy
 ```
 - Remove entire deployment
 	- -> useful for force-redeploying BECAUSE THERE'S APPARENTLY NO WAY TO FUCKING FORCE THE THING TO RUN WHAT THE FUKKCKCCCKCKCKCKCKCKC THIS IS A NIGHTMARE FOR DEVELOPMENT
+
+## Helmfile sync vs Helmfile apply
+> [!hint] Both update the [[Kubernetes Cluster]]
+
+- **apply**: Interactive, more verbose
+	- e.g.: Shows the diff
+	- => for manual deployments mainly
+- **sync**: Non-Interactive, less info
+	- => for [[CICD]]

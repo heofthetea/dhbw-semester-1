@@ -1,6 +1,7 @@
 ---
 aliases:
   - MDDM
+  - Star-Schema
 ---
 > Alternative zu [[3NF]] eines [[OLTP]], optimisiert für Auswertung
 

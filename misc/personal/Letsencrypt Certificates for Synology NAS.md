@@ -12,3 +12,12 @@
 
 - see here
 https://gist.github.com/bergelfs/5d6484a713a4661683aa8f0c0a6b4d4d
+
+
+## Commands
+### Certificate renewal
+```bash
+/bin/certbot renew --post-hook "/volume1/system/letsencrypt/import_certs.sh"
+```
+
+> [!warning] sudo

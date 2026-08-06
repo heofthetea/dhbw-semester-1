@@ -8,3 +8,8 @@ aliases:
 - [[Digital Signature]]
 
 > [!hint] Sollte abgeschirmt sein von Rest der Hardware
+
+### Pixel Handys
+- `Titan M` chip
+## Probleme mit Software-Lösungen
+- Software ist einfach zu reverse-engineeren

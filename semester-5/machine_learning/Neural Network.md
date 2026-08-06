@@ -15,3 +15,13 @@
 
 > [!hint] Das hier ist ein voll-vernetztes [[Neural Network]]
 > Jedes [[Neuron]] einer Schicht ist mit jedem [[Neuron]] in der Folgeschicht verbunden
+
+
+## Aufbau
+- and how to interpret [[Keras]] visualizations
+
+
+![[Pasted image 20260731123509.png]]
+
+
+![[Pasted image 20260731123440.png]]

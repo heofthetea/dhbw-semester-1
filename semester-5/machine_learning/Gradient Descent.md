@@ -3,6 +3,8 @@
 3. repeat
 4. wenn Steigung in alle Richtungen positiv: [[lokales Extremum|lokales]] Minimum gefunden => done
 
+> [!hint] "Garantieren" eines globalen MInimums: mehrere zufällige Startpunkte und einfach öfter machen
+
 ![[Pasted image 20251103105857.png]]
 ## Analogie: Wanderer im Nebelmeer
 - sieht absolut gar nichts

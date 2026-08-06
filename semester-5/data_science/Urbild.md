@@ -1,0 +1,4 @@
+---
+aliases:
+  - Pre-Image
+---

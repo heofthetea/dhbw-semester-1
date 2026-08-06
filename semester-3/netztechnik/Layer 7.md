@@ -7,7 +7,7 @@ aliases:
 
 ## Beispiel
 - [[FTP]]
-- [[SMTP]]
+- [[Email Comunication]]
 - [[DNS]]
 - [[HTTP]]
 - [[WebSocket]]

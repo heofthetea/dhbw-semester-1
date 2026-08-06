@@ -3,6 +3,8 @@
 [[Abbildung|Funktion]], [[Diskriminanzfunktion]]
 
 - Aufgabe: Nichtlinearität in ein [[Neural Network]] bringen
+	- Summe ($a$ im Bild) ist Äquivalent einer [[Diskriminanzfunktion|Linearen Diskriminanzfunktion]]
+- $w_{0}$ ist der Bias
 
 
 > [!hint] Das Input-Layer hat keine Activation Function (gibt einfach Merkmale weiter)
@@ -38,7 +40,6 @@
 
 ### Rectified Linear Unit (RELU)
 - mittlerweile mit die beliebtesten
-- 
 > [!hint] Entspricht dem Verhalten einer Diode -> direkt in Hardware übersetzbar
 
 $$\phi(a) = \text{max}(0, a)$$
@@ -46,7 +47,7 @@ $$\phi(a) = \text{max}(0, a)$$
 ![[Pasted image 20251205112709.png]]
 
 #### Abwandlungen
-- Parametric ReLU (Steigung für $\lt 0$)
+- Parametric/Leaky ReLU (Steigung für $\lt 0$)
 - [[Exponentialfunktion|exponential]] ReLU
 
 ### Softmax

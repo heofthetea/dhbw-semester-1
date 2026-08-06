@@ -1,3 +1,8 @@
+---
+aliases:
+  - CALL
+  - Funktionsaufruf
+---
 > ist ein [[Makro]]
 
 - [[Adresse]] des [[Programm Counter|Adresszählers]] wird auf [[Stack]] geworfen

@@ -1,5 +1,10 @@
-[[Tupel]]
+---
+aliases:
+  - Vector
+---
+>an n-[[Dimension|dimensional]] Point
 
+[[Tupel]]
 
 ### Länge
 

@@ -1,6 +1,7 @@
 [[The Everything Model]]
 
 [[Compile mermaid]]
+- [[Vim Cheat Sheet]]
 ## More Hubs
 [[Hub Virologie lol]]
 [[Hub AI Spring]]
@@ -23,13 +24,17 @@
 ## Personal CS-related Stuff
 [[Hub Personal]]
 
-
 # Actual misc
 - [[Colour Scheme thetraep x intension]]
 - [[Android Development]]
 - [[Notes Mathe Studium Stuttgart]]
 - [[IoT Mailbox Deployment]]
-
+- [[Fun Facts about myself panicmonster]]
+- [[Fix Maven Compile java Version not supported]]
+- [[Zed Quarkus Debug Attach configuration]]
+- [[Noe Plotting]]
+- [[Zed Extensions]]
+- [[SSH Saturn Config]]
 
 ## More knowledge (in case I'm ever bored (which I never am))
 - [[FP24.pdf]] - script about functional programming

@@ -29,7 +29,12 @@ kubectl get nodes
 	- `pods` - all deployed [[Kubernetes Pod|Pods]]
 	- `deployments` - all configured [[k8s Deployment|deployments]]
 	- `replicasets` - all [[Replicaset|Replicasets]]
+	- `cert` - certificates 
+	- `ing` - [[Ingress]]
 	- `all` - for maximum Overkill
+	- `crs/csr` -> certificate signing processes (likely a plugin)
+
+> [!hint] Use `kubectl api-resources` to get a list of _everything_ that can be kubectl-gotten.
 ### The most important one - kubectl apply
 ```bash
 kubectl apply -f $conrig_file
@@ -82,5 +87,16 @@ kubectl delete deployment $depl_name
 kubectl delete -f $config_file # everyting is yaml
 ```
 
+## Plugins
+```bash
+kubectl ns
+```
+
+-> switch namespaces easily
 
 
+```bash
+kubectl ctx
+```
+
+-> switch entire contexts (think: Cluster) easily

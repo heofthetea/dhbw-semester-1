@@ -1,0 +1,13 @@
+- [ ] proper LMR mit split reductions für quiets und captures und domain reductions
+- [ ] aspiration windows
+- [ ] razoring
+- [ ] futility pruning
+- [ ] countermove heuristic
+- [ ] two killers?; maybe also killers for capturing moves
+- [ ] SEE for move ordering
+- [ ] heuristics based on improving
+- [ ] late move (skipping - idk how its called) (viridithas does this)
+- [ ] Threading
+- [ ] entweder aktuellen tuner für eval effizienter machen oder nnue rein klatschen
+	- [ ] replace "kings on open files"  with "kings on semi-open files" in evaluation
+

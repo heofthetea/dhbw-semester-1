@@ -158,3 +158,8 @@ okay i guess wir machen das nicht..... dafuqqq??????
 - [[t-Test]]
 	- [[t-Verteilung]]
 - [[Fehler 1. Art]]
+
+# Further stuff I ran across in my life
+- [[RBA per Freeman]]
+	- [[Interpolation Smoothing]]
+- [[SPRT]]

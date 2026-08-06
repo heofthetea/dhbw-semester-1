@@ -1,3 +1,7 @@
+---
+aliases:
+  - cross validation
+---
 > mehrfaches [[Klassifikatortraining]] mit unterschliedlichen Datensplits -> Performance und [[Evaluation eines Modells|Evaluationsmetriken]] über Mittelwert und Standardabweichung angeben
 
 > [!hint] Löst das **Problem**: [[Klassifikatortraining]] einmal mit einem Datensplit durchführen -> Möglichkeit, dass Performance auf Zufallseffekten basiert

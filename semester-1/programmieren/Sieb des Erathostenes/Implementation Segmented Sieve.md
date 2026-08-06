@@ -26,9 +26,9 @@ This compares the _average case_ approximate runtime of the following entities:
 --> `wine` emulator adds 20% of runtime
 
 #### 10⁹
-|  | Segmented Sieve (with hardcoded values) | Segmented Sieve | Segmented Sieve (under `wine`) | Benchmark (under `wine`) |
-| ---- | ---- | ---- | ---- | ---- |
-| battery power | 2450 ms | 2900 ms | 3300 ms | 6900 ms |
+|               | Segmented Sieve (with hardcoded values) | Segmented Sieve | Segmented Sieve (under `wine`) | Benchmark (under `wine`) |
+| ------------- | --------------------------------------- | --------------- | ------------------------------ | ------------------------ |
+| battery power | 2450 ms                                 | 2900 ms         | 3300 ms                        | 6900 ms                  |
 #### 10¹⁰
 Sadly, under `wine`, both programs don't run properly anymore, as theyre lacking storage space. This is a shame.
 

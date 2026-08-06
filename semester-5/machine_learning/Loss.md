@@ -10,3 +10,8 @@ $$L_{ij} = L(\hat{\omega} = \omega_{i}, \omega = \omega_{j})$$
 
 
 $$L = \begin{bmatrix} L_{11} & \dots & L_{1c} \\ \vdots & \ddots & \vdots \\ Lc1 & \dots & L_{cc} \end{bmatrix}$$
+
+## Verbreitet
+- [[Binary Cross Entropy]]
+- [[Accuracy]], [[Recall]] or other [[Evaluation eines Modells|Bewertungsmetrik Klassifikation]]
+- [[Focal Loss]]

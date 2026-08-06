@@ -1,0 +1,1 @@
+> [[Encryption|verschlüsselte]] Version einer [[Nachricht]]

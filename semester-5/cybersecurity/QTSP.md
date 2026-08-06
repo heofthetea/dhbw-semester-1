@@ -1,3 +1,7 @@
+---
+aliases:
+  - Qualified Trust Service Provider
+---
 > Qualified Trust Service Provider
 
 - provider or [[eIDAS]] etc

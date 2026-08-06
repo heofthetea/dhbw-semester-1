@@ -1,0 +1,13 @@
+- [x] History Heuristics
+- [x] PVS (quelle hab ich, should be quick)
+- [x] Forward Pruning (as one chapter):
+	- [x] NMP
+	- [x] RFP
+	- [ ] (maybe razoring if I'm crazy enough to actually implement it (i'm not))
+- [ ] LMR
+	- [ ] I think I have decent sources for this as well
+- [ ] Additional Evaluation
+	- [ ] individual aspects can be summarized pretty heavily I think; maybe even one list
+	- [ ] Tuning can be like one chapter with a reference to the ethereal "paper" and fatalii
+- [ ] Methodology für testing: SPRT
+

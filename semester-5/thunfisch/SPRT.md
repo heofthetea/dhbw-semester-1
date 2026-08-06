@@ -9,7 +9,9 @@ aliases:
 
 ### LLR
 - Log [[Likelihood]] Ratio
-- #todo
+- Models: how likely is the current standing under the assumed ELO bounds $[ELO_{0}, ELO_{1}]$?
+
+$$\log(p(P_{w}\ |\ [ELO_{0}, ELO_{1}]))$$
 ### Bounds für LLR
 - Errechnet aus den desired [[Fehler 1. Art]] und Fehler 2. Art:
 
@@ -45,3 +47,13 @@ Total Time: 00:16:40 (hours:minutes:seconds)
 	- => basically just wie weit ist LLR von der näheren Konfidenzgrenze entfernt
 - bounds: `(lo, hi)` (s. [[#Bounds für LLR]])
 - Hypothesen `[ELO-0, ELO-1]`
+
+## Ballpark
+
+| expected ELO Gain | approx. Games for LLR convergence |
+| ----------------- | --------------------------------- |
+| 400               | 5-15                              |
+| 67                | 200-500                           |
+| 28                | 800-2000                          |
+| 10                | 5000-10 000                       |
+| 5                 | > 20c 000                         |

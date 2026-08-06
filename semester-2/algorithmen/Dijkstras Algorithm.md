@@ -11,6 +11,8 @@
 
 ### Komplexität
 $$\in \mathcal{O}(|V|^2)$$
+Durch Optimierunge mit Datenstrukturen:
+$$\in \theta(|E| \cdot log(|V|))$$
 # Algorithmus
 **Eingabe**: [[Graph]] $G(V, E)$, [[Gewichteter Graph|Kantengewicht]]-Funktion $e$, _Startknoten_ $v_{s}$
 

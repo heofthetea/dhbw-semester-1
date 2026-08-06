@@ -67,11 +67,11 @@
 - [[Wahrscheinlichkeit]]
 	- [[Operationen auf Wahrscheinlichkeiten]]
 	- [[Unabhängige Ereignisse]]
-- [[Bayes Theorem]]
+- [[Satz von Bayes]]
 - [[Stetige Verteilung]]
 
 ### Optimierung
-- Nebenbedingung 
+- [[Constraint Satisfaction Problem]]
 - Suchraum
 - [[konvexe und konkave Funktionen]]
 	- [[Konvexe Fläche]]
@@ -101,9 +101,12 @@
 	- [[Fehlerrate|Error Rate]]
 	- [[Konfusionsmatrix]]
 	- [[Accuracy]]
-- [[False Positive]]
-- [[False Negative]]
 - [[Kreuzvalidierung]]
+
+#### Fancier
+- [[Entropie]]
+- [[Binary Cross Entropy]] (binary classification on a [[Sigmoid]]-scaled output)
+- [[Focal Loss]]
 
 ### Übungen
 - [[Übung Müdigkeitserkennung in Autos]]
@@ -172,6 +175,10 @@
 - [[Deep Learning]]
 - [[Input Scaling und Batch Normalization]]
 - [[Regularisierung DNN]]
+
+#### Angewandt
+- [[Keras]]
+- [[Keras Neural Network Deployment using LiteRT]]
 
 ### Whacky derivatives
 - [[Convolutional Neural Network]]

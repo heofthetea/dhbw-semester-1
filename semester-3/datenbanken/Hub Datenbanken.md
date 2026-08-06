@@ -281,6 +281,10 @@ path: datenbanken/scripts
 	- [[Zustand einer Transaktion]]
 	- [[Ablauf Transaktion]]
 	- [[Nebenläufigkeit]]
+		- [[Lost-Update Problem]]
+		- [[Dirty Read]]
+		- [[Non-Repeatable Read]]
+		- [[Phantom Read]]
 - [[Isolationslevel]]
 
 

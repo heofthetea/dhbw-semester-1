@@ -1,3 +1,7 @@
+---
+aliases:
+  - Photon
+---
 > An [[Object]] with Quantum Properties
 
 - Ability to have a [[Superposition]]

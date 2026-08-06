@@ -1,0 +1,1 @@
+> unverschlüsselte Version einer [[Nachricht]]

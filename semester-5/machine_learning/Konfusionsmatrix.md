@@ -19,12 +19,14 @@
 > 2. Polizeistaat: FN weniger schlimm als FP (FN = falsch unschuldig (nach Unschuldsvermutung gut), FP = unschuldige hinter gittern)
 ### Derived Metrics im Binären Fall
 #### Fehlerrate
+[[Fehlerrate|Error Rate]]
 $$\frac{n_{ij}}{N}$$
 - für $c = 2$
 $$\frac{FP+FN}{2}$$
 
-#### Accuracy Acc
-$$Acc = \frac{n_{ii}}{N}$$
+#### Accuracy
+[[Accuracy]]
+$$ACC = \frac{n_{ii}}{N}$$
 
 - für $c= 2$:
 

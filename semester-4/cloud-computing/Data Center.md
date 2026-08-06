@@ -1,3 +1,8 @@
+---
+aliases:
+  - Rechenzentrum
+  - RZ
+---
 
 - Usually very hard to figure out where a data center is -> Security
 
